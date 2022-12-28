@@ -1,0 +1,13 @@
+Perguntas
+- Qual o design básico vamos usar?
+	* monólito, arquitetura orientada a serviços, microserviços, etc.
+- Quais tecnologias vamos usar?
+	* Frontend: HTML, CSS e Javascript
+		?? renderização do lado do servidor vs. renderização do lado do cliente
+	* Backend: Java
+	* Banco de dados: PostgreSQL
+- Como vamos instalar e distribuir nosso programa?
+	* Docker com instalação local
+- Qual o modelo de relacionamento de entidade básico vamos usar no PVM?
+
+Decisões
