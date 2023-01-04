@@ -6,7 +6,9 @@ services:
     build: .
     restart: always
     environment:
+      POSTGRES_USER: admin
       POSTGRES_PASSWORD: secret
+      POSTGRES_DB: cifraeasy
 
   adminer:
     image: adminer
