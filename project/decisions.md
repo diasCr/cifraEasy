@@ -4,7 +4,7 @@
 2. Quais tecnologias vamos usar?
 	- Frontend: HTML, CSS e Javascript (renderização do lado do servidor vs. renderização do lado do cliente)
 	* Backend: **Java**
-	* Banco de dados: PostgreSQL
+	* Banco de dados: **PostgreSQL**
 3. Como vamos instalar e distribuir nosso programa?
 	* Docker com instalação local
 4. Qual o modelo de relacionamento de entidade básico vamos usar no PVM?
